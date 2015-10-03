@@ -1,0 +1,15 @@
+---
+title: African Origins
+project-url: http://www.african-origins.org/
+subtitle: IT Management/Architecture
+layout: default
+modal-id: 7
+date: 2010-12-29
+img: origins.png
+thumbnail: origins-thumbnail.png
+alt: African Origins
+project-date: Dec 2010
+client: African Origins
+category: IT Management/Architecture
+description: The African Origins project enhances scholarly work with crowdsourcing to identify the historic origins of Africans forced into slavery as part of the trans-atlantic slave trade.  My role in this was as a project manager, manager of contractors and interns as well as providing design input for a complex implementation of a custom <a href="https://en.wikipedia.org/wiki/Levenshtein_distance">Levenshtien Search Algorithm</a>.
+---

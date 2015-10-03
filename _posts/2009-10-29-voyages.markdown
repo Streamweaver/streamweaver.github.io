@@ -1,0 +1,15 @@
+---
+title: Trans-Atlantic Slave Trade Database
+project-url: http://www.slavevoyages.org/tast/index.faces
+subtitle: IT Management
+layout: default
+modal-id: 8
+date: 2009-10-29
+img: voyages.png
+thumbnail: voyages-thumbnail.png
+alt: Trans-Atlantic Slave Trade Database
+project-date: Oct 2009
+client: Emory Libraries
+category: IT Management
+description: The Trans-Atlantic Slave Trade Database was a very rewarding project that featured the history of over 12 million Africans forcibly taken into slavery and transported across the Atlantic.  My role was as an IT Manager of the developers working on the project, planning with the scholars and stake holders as well as managing remote staff and vendors working on the project.
+---

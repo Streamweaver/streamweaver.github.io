@@ -176,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: times, Times New Roman, times-roman, georgia, serif;
     color: #{{ site.color.primary }};
 }
 
@@ -242,11 +242,12 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
-        font-size: 2em;
+        font-size: 3em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
     }
+
 
     .navbar-default .navbar-nav>.active>a {
         border-radius: 3px;

@@ -1,0 +1,15 @@
+---
+title: Digital Preservation Network
+project-url: http://www.dpn.org
+subtitle: API Design
+layout: default
+modal-id: 1
+date: 2015-01-01
+img: dpn.png
+thumbnail: dpn-thumbnail.png
+alt: the digital preservation network
+project-date: Dec 2014
+client: Digital Preservation Network
+category: Digital Archive
+description: DPN is a very large scale distributed dark archive of some of the most valuable cultural and academic material from 50 our the best Research Universities in the US.  I was part of the development team on this project and primarily responsible for designing the core API that allows independent nodes in the preservation archive to communicate and manage content in a distributed manner.
+---

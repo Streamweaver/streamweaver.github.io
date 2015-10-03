@@ -1,0 +1,15 @@
+---
+title: Salman Rushdie Digital Archives
+project-url: http://www.newyorker.com/tech/elements/digital-life-salman-rushdie
+subtitle: IT Management
+layout: default
+modal-id: 6
+date: 2011-02-28
+img: rushdie.png
+thumbnail: rushdie-thumbnail.png
+alt: the salman rushdie digital archives
+project-date: Feb 2011
+client: Salman Rushdie Archives
+category: IT Management
+description: The Rushdie Archives was a project my team developed under grant funding for the Emory University Special Collections Library.  It featured a first of it's kind emulated environment recovered through digital forensics and preserved through our digital archive.  I primarily provided project planning, consulted on the design and worked to help develop a project plan for the Software Engineers on my team.
+---

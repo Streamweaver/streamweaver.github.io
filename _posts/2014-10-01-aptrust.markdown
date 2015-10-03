@@ -1,0 +1,15 @@
+---
+title: Academic Perservation Trust
+project-url: http://www.aptrust.org
+subtitle: Architecture/IT Management
+layout: default
+modal-id: 2
+date: 2014-10-01
+img: aptrust.png
+thumbnail: aptrust-thumbnail.png
+alt: image-alt
+project-date: October 2014
+client: APTrust
+category: Digital Archive
+description: APTrust is a cloud base digital preservation archive servicing 15 major research Universities nation wide.  As the Lead Software & Systems Engineer I designed the entire project architecture, established our organizational workflows, documentation managed the IT staff and served as the primary voice for the organization at professional conferences and with our partners and the board.
+---
