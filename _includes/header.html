@@ -21,16 +21,18 @@
                     <li>
                         <a class="page-scroll" href="#summary">Summary</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
-                    </li>
-                    <!--
+
                     <li>
                         <a class="page-scroll" href="#history">History</a>
                     </li>
-                  -->
+                    <li>
+                                    <a class="page-scroll" href="#portfolio">Portfolio</a>
+                    </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                    <li>
+                      <a class="page-scroll" href="" target="_blank">Resume <i class="fa fa-external-link"></i></a>
                     </li>
                 </ul>
             </div>
@@ -46,6 +48,14 @@
                 <div class="intro-lead-in">A Bit About My Career</div>
                 <div class="intro-heading">It's Nice To Meet You</div>
                 <a href="#summary" class="page-scroll btn btn-xl">Tell Me More</a>
+                <div><br>
+                <ul class="list-inline social-buttons">
+                    {% for network in site.social %}
+                    <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+              </div>
             </div>
         </div>
     </header>

@@ -11,5 +11,5 @@ alt: Occupy Wall Street Twitter Harvest
 project-date: Oct 2009
 client: Emory Digital Scholarship Commons
 category: Software Engineering
-description: The Occupy Wall Street Twitter Harvest began in haste to move to capture as much of the social media record as we could about the emerging OWS movement in real-time.  My role was as a Software Engineer I rapidly (in a single night) <a href="https://github.com/emory-libraries/Twap">coded a persistent harvester</a> of twitter to capture tweets occurring during that period for analysis by scholars later.
+description: The Occupy Wall Street Twitter Harvest began in haste to capture as much of the social media record as we could about the emerging OWS movement in realtime.  My role was as a Software Engineer. I rapidly (in a single night) <a href="https://github.com/emory-libraries/Twap">coded a persistent harvester</a>  to capture tweets occurring during that period for analysis by scholars later.
 ---

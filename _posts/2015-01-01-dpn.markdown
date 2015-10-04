@@ -11,5 +11,5 @@ alt: the digital preservation network
 project-date: Dec 2014
 client: Digital Preservation Network
 category: Digital Archive
-description: DPN is a very large scale distributed dark archive of some of the most valuable cultural and academic material from 50 our the best Research Universities in the US.  I was part of the development team on this project and primarily responsible for designing the core API that allows independent nodes in the preservation archive to communicate and manage content in a distributed manner.
+description: DPN is a very large scale distributed dark archive of some of the most valuable cultural and academic material from 50 of our best research universities in the U.S.  I was part of the development team on this project and was primarily responsible for designing the core API that allows independent nodes in the preservation archive to communicate and manage content in a distributed manner.
 ---

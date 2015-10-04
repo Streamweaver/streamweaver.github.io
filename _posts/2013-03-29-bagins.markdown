@@ -7,9 +7,9 @@ modal-id: 3
 date: 2014-03-29
 img: bagins.png
 thumbnail: bagins-thumbnail.png
-alt: TBagins Open Source Library
+alt: Bagins Open Source Library
 project-date: Mar 2014
 client: Bagins Open Source Library
 category: Software Engineering
-description: This library allows for the creation of archival packages using the BagIt standard from the library of congress.  I designed and coded the library and released it as an open source package which has seen adoption in a number of Universities.  The main benefit of this package is it allows for very fast concurrent processes that can archive large numbers of files needed to scale in major Research Universities.
+description: This library allows the creation of archival packages using the BagIt standard from the Library of Congress.  I designed and coded the library and released it as an open source package, which has seen adoption in a number of universities.  The main benefit of this package is it allows for very fast concurrent processes that can archive large numbers of files needed to scale in major research universities.
 ---

@@ -11,5 +11,5 @@ alt: Emory Center for Digital Scholarship
 project-date: Mar 2012
 client: Emory Center for Digital Scholarship
 category: IT Management
-description: What started as the Emory Digital Scholarship Commons was founded to establish as a center for the emerging field of Digital Scholarship.  My involvement was to establish and managed the IT team serving DiSC, help develop project plans alongside the scholars and build an IT plan to establish the infrastructure for the center.
+description: What started as the Emory Digital Scholarship Commons was founded to establish a center for the emerging field of Digital Scholarship.  My involvement was to establish and manage the IT team serving DiSC, help develop project plans alongside the scholars and build an IT plan to establish the infrastructure for the center.
 ---
